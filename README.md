@@ -1,24 +1,15 @@
-# README
+Projet : Petit blog des familles
+Une application de blog. C'est un super blog où ses utilisateurs peuvent créer des articles, les commenter, leur attribuer à une catégorie et liker les articles.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Les modèles :
+Les users
+Les articles
+Les catégories
+Les commentaires
+Les likes
+Auteurs
+Team Caen
+Maxime Beaufils, Bertrand Pelletier, Iliès El Ouartassi
+En savoir plus
+Project for The hacking Project
+https://www.thehackingproject.org/
